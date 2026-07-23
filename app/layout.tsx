@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Cyan Robotics Portfolio",
+  title: "agctech",
   description:
     "A cyan, white, and black portfolio for robotics projects, autonomous systems, and operator interfaces.",
   icons: {

@@ -227,9 +227,11 @@ export default function Home() {
           <p className="eyebrow">About me</p>
           <h2 id="about-title">I build robotics ideas into clear working systems.</h2>
           <p>
-            I like projects where code, hardware, movement, and human decisions
-            all have to line up. My work focuses on making robotic behavior
-            understandable, testable, and ready for real operators.
+            Hello! My name is Alexa, and I am majoring in Mechanical Engineering
+            at SCU. In 2025, I was a UTD student who transferred to SCU in hopes
+            of starting a life in Silicon Valley and continuing to expand my
+            scope in the field of robotics. A bit about me: I like cats,
+            electric scooters, chess, sudoku, and learning new languages.
           </p>
         </div>
         <div className="aboutStats" aria-label="Robotics focus areas">
