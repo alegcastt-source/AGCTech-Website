@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "agctech",
+  title: "AGC TECH",
   description:
-    "A cyan, white, and black portfolio for robotics projects, autonomous systems, and operator interfaces.",
+    "A premium AGC TECH portfolio for AI, robotics, teleoperation, and automation systems.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
